@@ -36,7 +36,7 @@ Este proyecto permite transcribir audios o videos (incluyendo enlaces de YouTube
 
 ## Estructura del código
 
-- `voz.py`: Script principal que gestiona todo el flujo (descarga, transcripción, generación de subtítulos y gestión de resúmenes).
+- `transcriptor.py`: Script principal que gestiona todo el flujo (descarga, transcripción, generación de subtítulos y gestión de resúmenes).
 - `prompts/resumenes_youtube.py`: Funciones de apoyo para crear prompts de resumen (personalizable).
 
 ## Ventajas
